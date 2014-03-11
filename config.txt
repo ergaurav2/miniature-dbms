@@ -1,0 +1,10 @@
+PAGESIZE 50
+NUM_PAGES 1
+PATH_FOR_DATA data
+BEGIN
+student
+sid,integer
+sname,varchar(20)
+cgpa,float
+PRIMARY_KEY, sname
+END
